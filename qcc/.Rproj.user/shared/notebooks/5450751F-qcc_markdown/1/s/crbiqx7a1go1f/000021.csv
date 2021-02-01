@@ -1,0 +1,7 @@
+"0",""
+"0","causes=list("
+"0","  Macchinari=c(""Mancata \n manutenzione"",""Utensile errato"",""Calibrazione \n errata""),"
+"0","  Personale=c(""Non qualificato"",""Bassa attitudine"",""Supervisione inadeguata""),"
+"0","  Misurazioni=c(""Specifiche errate"",""Strumeto errato"",""Specifiche non chiare""),"
+"0","  Materiali=c(""Qualità non rispettata \n dal fornitore"",""Danneggiato""))"
+"0","cause.and.effect(cause=causes,effect=""Difetti sul \n prodotto"")"

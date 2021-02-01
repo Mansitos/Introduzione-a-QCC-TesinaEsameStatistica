@@ -1,0 +1,2 @@
+"0","samples = pistonrings$diameter[1:15]"
+"0","qcc_obj <- qcc(samples,type=""xbar.one"",std.dev = ""MR"")"

@@ -1,0 +1,1 @@
+"0","qcc_obj <- qcc(diameter[1:15,],type=""xbar"",newdata=diameter[16:40,])"

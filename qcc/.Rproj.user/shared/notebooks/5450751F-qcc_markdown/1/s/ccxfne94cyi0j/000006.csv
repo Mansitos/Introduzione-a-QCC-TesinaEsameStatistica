@@ -1,0 +1,2 @@
+"0","qcc_x_obj = qcc(diameter, type=""xbar"", nsigmas=3, plot=FALSE)"
+"0","oc.curves.xbar(qcc_x_obj, n=c(1,5,15))"

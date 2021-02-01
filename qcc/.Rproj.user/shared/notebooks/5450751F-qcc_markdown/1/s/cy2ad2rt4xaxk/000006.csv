@@ -1,0 +1,2 @@
+"0","qcc_p_obj = qcc(D[trial], sizes=size[trial], type=""p"", plot=FALSE)"
+"0","oc.curves(qcc_p_obj)"

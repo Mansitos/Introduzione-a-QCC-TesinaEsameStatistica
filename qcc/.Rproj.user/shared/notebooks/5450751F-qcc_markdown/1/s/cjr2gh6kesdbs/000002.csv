@@ -1,0 +1,11 @@
+"0","library(qcc)"
+"2","package ‘qcc’ was built under R version 4.0.3"
+"2","  __ _  ___ ___ 
+ / _  |/ __/ __|  Quality Control Charts and 
+| (_| | (_| (__   Statistical Process Control
+ \__  |\___\___|
+    |_|           version 2.7
+"
+"2","Type 'citation(""qcc"")' for citing this R package in publications.
+"
+"0","data(pistonrings)"
